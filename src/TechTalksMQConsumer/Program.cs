@@ -4,7 +4,7 @@ using System.IO;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using TechTalksProcessor.Messaging;
-
+//Agrego comentario para probar sonar cloud
 namespace TechTalksMQProcessor
 {
     class Program
